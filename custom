@@ -1,0 +1,7 @@
+body#corpo
+{display: flex,
+    align-itens center}
+
+head#titulo
+{display: flex,
+    align-itens center}
